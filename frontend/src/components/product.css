@@ -1,0 +1,11 @@
+img{
+    height: 80vh;
+    object-fit:cover;
+    object-position: top;
+}
+.details{
+    text-align: left;
+}
+.btn{
+    margin-right: 10px;
+}
